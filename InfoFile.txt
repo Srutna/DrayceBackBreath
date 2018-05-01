@@ -1,4 +1,10 @@
-All .png files are the sprites to e used.
-All .ai files are for Adobe Illustrator.
-All .svg files for further use (just in case).
-All .swf will be used as substitutions of .png files.
+.ai files for adobe illustrator.
+.png are the actual files for sprite images.
+
+72p directory contains the images which are actually used in the game.
+
+These sprites will be used when character will be walking backward.
+
+Dimensions on GMS are 108 x 144 & the speed of frame moving is 10.
+
+Origin: 54 X 72 (middleCenter).
